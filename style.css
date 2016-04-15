@@ -1,0 +1,11 @@
+tr, td {
+    margin: 0;
+    padding: 0;
+}
+.cell {
+    height: 20px;
+    width: 50px;
+    border: none;
+    margin: -1px;
+    outline: 1px solid black;
+}
